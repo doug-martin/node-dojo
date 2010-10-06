@@ -1,0 +1,14 @@
+This is dojo for node, this is an initial attempt and there may be bugs,
+if there are any please let me know, or fix them.
+
+This module include dojo core.
+
+Including
+   * Declare
+   * mixin
+   * extend
+   * safeMixin
+   * Deferred System
+   * Array Methods
+   * function methods such as hitch, partial, etc...
+
